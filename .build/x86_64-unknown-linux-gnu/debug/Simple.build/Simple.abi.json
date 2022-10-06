@@ -117,28 +117,6 @@
     },
     {
       "kind": "Var",
-      "name": "TotalSwaps",
-      "printedName": "TotalSwaps",
-      "children": [
-        {
-          "kind": "TypeNominal",
-          "name": "Int",
-          "printedName": "Swift.Int",
-          "usr": "s:Si"
-        }
-      ],
-      "declKind": "Var",
-      "usr": "s:6Simple10TotalSwapsSivp",
-      "mangledName": "$s6Simple10TotalSwapsSivp",
-      "moduleName": "Simple",
-      "declAttributes": [
-        "HasInitialValue",
-        "HasStorage"
-      ],
-      "hasStorage": true
-    },
-    {
-      "kind": "Var",
       "name": "index",
       "printedName": "index",
       "children": [
