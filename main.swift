@@ -77,7 +77,6 @@ for word in OriginalArray {
 
 var list = unsortedIntegers
 var pass = 0
-var TotalSwaps = 0
 
 var index = 0
 while pass < list.count - 1 {
@@ -95,7 +94,6 @@ while pass < list.count - 1 {
     if list[smallestIndex] <= list[index] {
         list.swapAt(smallestIndex, index)
         swaps += 1
-        TotalSwaps += 1
     }
     
     pass += 1
